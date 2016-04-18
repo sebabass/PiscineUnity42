@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Sonic.cs">
+    <Files>
+      <File FileName="Assets/Scripts_d04/user.cs" Line="28" Column="25" />
+      <File FileName="Assets/Scripts_d04/dataSelect.cs" Line="91" Column="1" />
+      <File FileName="Assets/Scripts/Sonic.cs" Line="341" Column="35" />
+      <File FileName="Assets/Scripts_d04/gameManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
